@@ -1,0 +1,6 @@
+./positive_images/IMG_0908.JPG
+./positive_images/IMG_0909.JPG
+./positive_images/IMG_0910.JPG
+./positive_images/IMG_0913.JPG
+./positive_images/IMG_0914.JPG
+./positive_images/IMG_0915.JPG

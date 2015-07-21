@@ -1,0 +1,5 @@
+./samples/IMG_0908.JPG.vec
+./samples/IMG_0909.JPG.vec
+./samples/IMG_0910.JPG.vec
+./samples/IMG_0913.JPG.vec
+./samples/IMG_0914.JPG.vec
