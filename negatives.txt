@@ -15,12 +15,10 @@
 ./negative_images/19243646694_f7214bcc96.jpg
 ./negative_images/19244033214_88a03bc115.jpg
 ./negative_images/19244033734_93aed73e0d.jpg
-./negative_images/19244061944_9f69502502.jpg
 ./negative_images/19244083434_4b221cc276.jpg
 ./negative_images/19244083614_8deb6e9c1d.jpg
 ./negative_images/19244113604_6ceebcebd3.jpg
 ./negative_images/19244140224_51d1e1d614.jpg
-./negative_images/19245118573_1d48232cc6.jpg
 ./negative_images/19245397113_9b4c0b78c1.jpg
 ./negative_images/19245566503_b1c0eb9d59.jpg
 ./negative_images/19245570673_b12cefdc6f.jpg
