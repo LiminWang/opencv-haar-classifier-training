@@ -1,3 +1,10 @@
+./samples/1.jpg.vec
+./samples/10.jpg.vec
+./samples/11.jpg.vec
+./samples/13.jpg.vec
+./samples/14.jpg.vec
+./samples/15.jpg.vec
+./samples/16.jpg.vec
 ./samples/19294781474_225de50f29.jpg.vec
 ./samples/19294888564_71053999e2.jpg.vec
 ./samples/19294920654_28d35c8a88.jpg.vec
@@ -33,6 +40,10 @@
 ./samples/2.jpg.vec
 ./samples/3.jpg.vec
 ./samples/4.jpg.vec
+./samples/5.jpg.vec
+./samples/6.jpg.vec
+./samples/7.jpg.vec
+./samples/8.jpg.vec
 ./samples/IMG_0908.JPG.vec
 ./samples/IMG_0909.JPG.vec
 ./samples/IMG_0910.JPG.vec
