@@ -45,3 +45,12 @@
 ./samples/output-0032.jpg.vec
 ./samples/output-0033.jpg.vec
 ./samples/output-0034.jpg.vec
+./samples/output-0035.jpg.vec
+./samples/output-0036.jpg.vec
+./samples/output-0037.jpg.vec
+./samples/output-0038.jpg.vec
+./samples/output-0039.jpg.vec
+./samples/output-0040.jpg.vec
+./samples/output-0041.jpg.vec
+./samples/output-0042.jpg.vec
+./samples/output-0043.jpg.vec
