@@ -20,6 +20,7 @@
 ./positive_images/output-0037.jpg
 ./positive_images/output-0038.jpg
 ./positive_images/output-0039.jpg
+./positive_images/output-004.jpg
 ./positive_images/output-0040.jpg
 ./positive_images/output-0041.jpg
 ./positive_images/output-0042.jpg

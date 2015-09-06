@@ -20,6 +20,7 @@
 ./samples/output-0037.jpg.vec
 ./samples/output-0038.jpg.vec
 ./samples/output-0039.jpg.vec
+./samples/output-004.jpg.vec
 ./samples/output-0040.jpg.vec
 ./samples/output-0041.jpg.vec
 ./samples/output-0042.jpg.vec
